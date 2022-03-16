@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.contenedor {
+  background-color: rgba(255, 228, 196, 0.575);
+}
+
+.imagen-moneda {
+  width: 15px;
+  height: 15px;
+}
+
+.tabla {
+  margin: auto;
+}
+
+.dato-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dato {
+  text-align: center;
+  border-bottom: solid rgba(80, 76, 76, 0.808) 1px;
+  padding: 8px;
+}
+
+.tabla {
+  width: 50%;
+}
